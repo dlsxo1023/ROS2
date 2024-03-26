@@ -73,7 +73,9 @@ $ ros2 launch turtlebot3_navigation2 navigation2.launch.py map:=$HOME/map.yaml
 
 ![image](https://github.com/dlsxo1023/Turtlebot_miniproject/assets/149138829/1ab22e8c-3c4c-44a2-8b48-de53d30cc2c7)
 
-2.publish , subscribe 실행
+2.publish , subscribe 실행<br>
+pub_nav_msg.py / sub_n_follow.py 코드는 아래 참조<br>
+[코드보기](https://github.com/dlsxo1023/Turtlebot_miniproject/tree/master/nav_pkg/nav_pkg)
 
 ### 터틀봇 이동 방법
 
