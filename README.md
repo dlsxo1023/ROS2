@@ -27,5 +27,4 @@
 
 |Navi|Turtlebot|
 |---|---|
-|![image](https://github.com/dlsxo1023/Turtlebot_miniproject/assets/149138829/7bbb96d7-89df-48e1-9443-4fdc0fdc402a)|![image](https://github.com/dlsxo1023/Turtlebot_miniproject/assets/149138829/c1d0ff6a-19ae-45de-a335-4810e84ba690)|
-
+|![KakaoTalk_20240327_053236652](https://github.com/dlsxo1023/Turtlebot_miniproject/assets/149138829/af0b01c0-53eb-4f62-8f8e-e4e4665a635e)|![KakaoTalk_20240327_053238430](https://github.com/dlsxo1023/Turtlebot_miniproject/assets/149138829/f9395326-4fb8-415f-b3ab-1252882b383a)|
